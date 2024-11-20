@@ -2,3 +2,8 @@
 # Data
 zenplanner_240715-241101.json
 
+.env
+
+# Virtual Enviornment
+.venv
+
